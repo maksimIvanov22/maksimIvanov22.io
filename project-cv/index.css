@@ -1,0 +1,66 @@
+.ocn {
+    font-size: 35px;
+    background-color: rgb(36, 65, 230);
+    margin: 15px;
+  }
+  #hello {
+    font-size: 40px;
+    margin: 75px 45px 20px;
+  }
+  .general {
+    background-color: rgb(133, 133, 133);
+    border: 2px rgb(100, 100, 100) groove;
+    display: flex;
+    justify-content: center;
+  }
+  .obchee {
+  }
+  .photo {
+    display: flex;
+    align-items: center;
+    height: 550px;
+    margin: 100px 40px 20px;
+  }
+  .main {
+    margin: 45px 20px 20px 20px;
+  }
+  .data {
+    margin: 50px 20px 50px;
+  }
+  .age {
+    margin: 10px 20px 10px;
+  }
+  .city {
+    margin: 10px 20px 10px;
+  }
+  .adres {
+    margin: 10px 20px 10px;
+  }
+  .phone {
+    margin: 10px 20px 10px;
+  }
+  .personal {
+    background-color: rgb(133, 133, 133);
+    border: 2px rgb(100, 100, 100) groove;
+    margin-top: 10px;
+  }
+  .personal2 {
+    margin: 40px 40px 40px 150px;
+  }
+  .hobby {
+    background-color: rgb(133, 133, 133);
+    border: 2px rgb(100, 100, 100) groove;
+    margin-top: 10px;
+  }
+  .hobby1 {
+    margin: 40px 40px 40px 150px;
+  }
+  
+  .imgPhoto{
+    border-radius: 35px;
+    border: 20px solid white;
+    border-bottom-width: 80px ;
+    box-shadow: 5px 5px 5px white, -5px -5px 5px white;
+    transform: rotate(3deg);
+    
+  }
